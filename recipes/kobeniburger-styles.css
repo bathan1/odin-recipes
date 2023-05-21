@@ -1,0 +1,23 @@
+* {
+    font-family: "Arial", sans-serif;
+}
+
+#main {
+    height:auto;
+    width:800px;
+}
+
+h1 {
+    font-weight: bold;
+    padding-left: 275px;
+}
+
+#quotes {
+    color:red;
+    font-weight: bold;
+}
+
+#best-girl {
+    color:purple;
+    font-weight:bolder;
+}
